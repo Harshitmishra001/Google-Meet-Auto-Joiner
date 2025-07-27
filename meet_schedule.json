@@ -1,1 +1,8 @@
-[]
+[
+    {
+        "day": "Monday",
+        "time": "23:33",
+        "url": "pycache/",
+        "duration": 22
+    }
+]
