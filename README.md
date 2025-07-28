@@ -44,15 +44,6 @@ Follow these steps to get the application up and running:
      pip install schedule pyautogui
      ```
 
-**3. Create the "Join Now" Screenshot (Highly Recommended):**
-   - This is the most critical step for ensuring the application works reliably.
-   - Open any Google Meet link in your browser.
-   - Take a screenshot of **only the "Join now" button**.
-   - **Save this image as `join_button.png` in the exact same folder** where you saved `meet_app.py`.
-
-   ![Example of join_button.png](https://i.imgur.com/your-join-button-screenshot.png)
-   *(Note: You can replace this with a real screenshot of the button)*
-
 ---
 
 ## ▶️ How to Use
