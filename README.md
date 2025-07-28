@@ -6,8 +6,6 @@ The **Google Meet Auto-Joiner** is a user-friendly desktop application designed 
 
 It provides a clean graphical user interface (UI) to manage a weekly schedule of your classes. Once set, the application runs quietly in the background, automatically opening your Google Meet links at the specified times, muting your microphone and camera, joining the call, and then closing the tab when the class duration is over.
 
-![App Screenshot](https://i.imgur.com/your-screenshot.png) 
-*(Note: You can replace this with a real screenshot of your app)*
 
 ---
 
